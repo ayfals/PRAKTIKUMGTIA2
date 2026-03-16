@@ -1,4 +1,3 @@
-// Menggambar Kubus Bertingkat - Mirip Contoh
 
 #include <gl/glut.h>
 
